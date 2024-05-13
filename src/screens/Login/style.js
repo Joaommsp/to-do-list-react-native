@@ -12,6 +12,11 @@ const styles = StyleSheet.create({
     logo: {
         marginBottom: 50,
     },
+
+    alertContainer: {
+        height: 55,
+    },
+
     alert: {
         fontSize: 18,
         color: '#FFF',
